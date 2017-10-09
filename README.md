@@ -20,10 +20,9 @@ Item ESP
 
 Extras
 
-    Nospread & Norecoil - Will become disabled shortly
-    Instant Reload
+    Nospread & Norecoil - Will become disabled
+    Instant Reload - Will become disabled
     Airdrop ESP
-    Radar - WORK IN PROGRESS
 
 Controles
 
